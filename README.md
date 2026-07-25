@@ -76,3 +76,7 @@ This project includes the following system analysis and design documents:
 Digital Business and Information Systems Student
 
 Mahasarakham University
+
+## 🖼️ System & UI Preview
+
+<img width="851" height="550" alt="image" src="https://github.com/user-attachments/assets/5d97c7d6-c3f8-4a5e-a2b5-e1be77daa026" />
